@@ -410,7 +410,7 @@
       "messaging_frequency_groups": {
         "name": "Nachrichten-Sendefrequenz",
         "hint": "in Gruppenchats",
-        "text": "bis zu 20 Nachrichten pro Sekunde in einem Chat"
+        "text": "bis zu 20 Nachrichten pro Minute in einem Chat"
       },
       "bot_commands_count": {
         "name": "Anzahl der Kommandos",
